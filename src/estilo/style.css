@@ -12,6 +12,7 @@
 }
 body{
     background: linear-gradient(90deg,#cecbeb,#6F61E8, #584DB8);
+    background-attachment: fixed;
 }
 header{
     margin: 44px 0 144px 76px;
